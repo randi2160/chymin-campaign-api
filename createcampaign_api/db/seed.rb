@@ -1,0 +1,3 @@
+menu1 = SecretMenuItem.create(campaign_name: "Chipotle Nachos", camapign_description: "Chipotle", campaign_location:"Build a plate of nachos with all of your favorite fixings")
+menu2 = SecretMenuItem.create(campaign_name: "Starbucks butterbeer Frappuccino", camapign_description: "Starbucks", campaign_location:"Combine three pumps of toffee nut syrup and three pumps of caramel with a Crème Frappuccino base")
+menu3 = SecretMenuItem.create(campaign_name: "Skittles", camapign_description: "Jamba Juice", campaign_location:"A mixture of lemonade, lime sherbet, frozen yogurt, and strawberries")
